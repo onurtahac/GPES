@@ -5,7 +5,7 @@ Note: You can find the detailed description of the project in the docx file.
 The Graduation Project Evaluation System (GPES) is a comprehensive platform designed to modernize and streamline the evaluation process for academic graduation projects. By integrating advanced technologies and innovative design principles, GPES aims to overcome the limitations of traditional assessment methods, enhancing efficiency, fairness, and accountability in academic workflows.
 
 ## Features
-
+ 
 ### 1. **Web and Mobile Integration**
    - **Web Platform**: A robust and scalable platform built using .NET Framework to facilitate project submission, evaluation, and feedback.
    - **Mobile Application**: Developed with Flutter and Dart, offering a high-performance, cross-platform solution for professors to assess and track project progress seamlessly.
